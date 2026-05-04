@@ -3,13 +3,13 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
   <url>
-    <loc>https://dijokiaja.com/</loc>
+    <loc>https://resonant-shortbread-7d0e92.netlify.app/</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dijokiaja.com/#layanan</loc>
+    <loc>https://resonant-shortbread-7d0e92.netlify.app/#layanan</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
