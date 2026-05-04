@@ -149,7 +149,7 @@ export default function Hero({ waLink }: HeroProps) {
           {/* LEFT TEXT */}
           <div style={{ animation: 'fadeUp 0.7s ease both' }}>
             <div className="section-label">
-              🎓 Terpercaya Sejak 2023
+              🎓 Jasa Joki Tugas Terpercaya Sejak 2023
             </div>
             <h1 style={{
               fontFamily: 'Syne, sans-serif',
@@ -159,7 +159,7 @@ export default function Hero({ waLink }: HeroProps) {
               color: 'var(--text-primary)',
               marginBottom: '1.25rem',
             }}>
-              Tugas Numpuk?{' '}
+              Jasa Joki Tugas{' '}
               <span style={{
                 background: 'var(--grad-brand)',
                 WebkitBackgroundClip: 'text',
@@ -175,7 +175,7 @@ export default function Hero({ waLink }: HeroProps) {
               marginBottom: '1rem',
               maxWidth: '480px',
             }}>
-              <strong style={{ color: 'var(--text-primary)' }}>Dijokiaja</strong> hadir sebagai solusi cerdas untuk mahasiswa, pelajar SMA, hingga karyawan. Semua jenis tugas kami tangani — cepat, berkualitas, dan terjamin aman. 💪
+              <strong style={{ color: 'var(--text-primary)' }}>Dijokiaja</strong> adalah jasa joki tugas untuk mahasiswa, pelajar SMA, dan karyawan. Kami tangani semua jenis tugas — cepat, berkualitas, rahasia, dan aman. 💪
             </p>
 
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.6rem', marginBottom: '2rem' }}>

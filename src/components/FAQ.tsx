@@ -2,6 +2,10 @@ import { useState } from 'react'
 
 const faqs = [
   {
+    q: 'Apa itu jasa joki tugas Dijokiaja?',
+    a: 'Jasa joki tugas Dijokiaja adalah layanan bantuan pengerjaan tugas untuk kuliah, SMA, dan karyawan. Kami fokus pada hasil yang cepat, rapi, aman, dan tetap menjaga kerahasiaan pelanggan.',
+  },
+  {
     q: 'Apakah tugas saya benar-benar aman dan tidak akan ketahuan?',
     a: 'Tentu! Privasi adalah prioritas utama kami. Data kamu sepenuhnya rahasia dan kami tidak akan membocorkan informasi apapun. Kami juga tidak pernah membagikan tugas ke pihak lain. Sudah ratusan pelanggan yang aman dan puas.',
   },
