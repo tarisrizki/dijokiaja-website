@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://resonant-shortbread-7d0e92.netlify.app/sitemap.xml
+Sitemap: https://dijokiaja-web.netlify.app/sitemap.xml
